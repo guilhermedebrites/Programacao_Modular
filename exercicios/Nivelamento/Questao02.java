@@ -1,4 +1,4 @@
-package Nivelamento;
+package exercicios.Nivelamento;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,8 +1,8 @@
-package Nivelamento;
+package exercicios.Nivelamento;
 
 import java.util.Arrays;
 
-import static Nivelamento.Questao04.*;
+import static exercicios.Nivelamento.Questao04.*;
 
 public class Questao05 {
 
